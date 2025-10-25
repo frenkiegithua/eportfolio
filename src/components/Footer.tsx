@@ -8,9 +8,6 @@ const Footer = () => {
           <li>
             <a href="/" className="hover:text-gray-400 transition duration-200">Home</a>
           </li>
-          <li>
-            <a href="/about" className="hover:text-gray-400 transition duration-200">About</a>
-          </li>
         </ul>
       </nav>
     </footer>
